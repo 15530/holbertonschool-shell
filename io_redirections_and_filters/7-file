@@ -1,2 +1,2 @@
 #!/bin/bash
-python3 -c "import pathlib; pathlib.Path(bytes.fromhex('5c2a5c5c272242657374205363686f6f6c225c275c5c2a245c3f5c2a5c2a5c2a5c2a5c2a3a29').decode()).write_text('Best School\n')"
+echo "Best School" > '\*\\'\''"Best School"\'\''\\*$\?\*\*\*\*\*:)'
