@@ -16,3 +16,4 @@ This project contains shell scripts about init files, variables and expansions.
 - 9-divide_and_rule: prints the result of POWER divided by DIVIDE
 - 10-love_exponent_breath: prints BREATH to the power LOVE
 - 11-binary_to_decimal: converts the number in BINARY from base 2 to base 10
+- 12-combinations: prints all two-letter combinations from aa to zz except oo
