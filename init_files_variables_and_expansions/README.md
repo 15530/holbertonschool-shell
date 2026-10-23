@@ -12,3 +12,4 @@ This project contains shell scripts about init files, variables and expansions.
 - 5-local_variables: lists all local variables, environment variables and functions
 - 6-create_local_variable: creates a new local variable BEST with the value School
 - 7-create_global_variable: creates a new global variable BEST with the value School
+- 8-true_knowledge: prints the result of 128 plus the value of TRUEKNOWLEDGE
